@@ -8,7 +8,7 @@ This is a single-page web app that allows users to draw pixel art on a customiza
 
 ## File List: 
 design.js </br>
-index.html
-README.md
+index.html </br>
+README.md </br>
 style.css
 
